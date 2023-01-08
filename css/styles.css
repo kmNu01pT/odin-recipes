@@ -1,0 +1,38 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+}
+
+#stuff{
+    color: lightskyblue;
+ }
+
+ .list{
+     text-align: right;
+     color: mediumaquamarine;
+ }
+
+.pasta {
+    color: tan;
+}
+
+ 
+.tortilla {
+    color: hsla(16, 100%, 50%, .9);
+    background-color: lavenderblush;
+}
+
+
+.number, ol{
+    color: lightsalmon;
+
+}
+.tomato {
+    font-size: 25px;
+}
+
+.good{
+    height: 200px;
+    width: auto;
+}
+
+
